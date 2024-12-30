@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 <img alt="graphql-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" title="Graphql"  />
 <img width="12" />
 
+<!-- Redux -->
+<img alt="redux-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" title="Redux"  />
+<img width="12" />
+
 <!-- Vitejs -->
 <img alt="vitejs-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" title="Vitejs"  />
 <img width="12" />
@@ -86,6 +90,10 @@ Here are some ideas to get you started:
 
 <!-- Bootstrap -->
 <img alt="bootstrap-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  />
+<img width="12" />
+
+<!-- Sass -->
+<img alt="sass-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" title="Sass"  />
 <img width="12" />
 
 <!-- Css3 -->
@@ -151,6 +159,16 @@ Here are some ideas to get you started:
 <!-- Debian -->
 <img alt="debian-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-original.svg" title="Debian"  />
 <img width="12" />
+
+
+<!--  
+<img alt="-icon" height="40" src="" title=""  />
+<img width="12" />
+-->
+
+
+
+
 
 </div>
 
