@@ -104,6 +104,10 @@ Here are some ideas to get you started:
 <img alt="html5-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="Html5"  />
 <img width="12" />
 
+<!-- react-i18next -->
+<img alt="react-i18next-icon" height="32" src="https://react.i18next.com/~gitbook/image?url=https%3A%2F%2F4236364459-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia&width=32&dpr=1&quality=100&sign=ba15ca9c&sv=2" title="React-i18next"  />
+<img width="12" />
+
 <!-- Axios -->
 <img alt="axios-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" title="Axios"  />
 <img width="12" />
@@ -165,6 +169,7 @@ Here are some ideas to get you started:
 <img alt="-icon" height="40" src="" title=""  />
 <img width="12" />
 -->
+
 
 
 
