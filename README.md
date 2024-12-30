@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 <!-- Figma -->
 <img alt="figma-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" title="Figma"  />
 <img width="12" />
+<!-- Python -->
+<img alt="pythin-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" />
+<img width="12" />
 
 <!-- Git -->
 <img alt="git-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" title="Git"  />
@@ -98,7 +101,7 @@ Here are some ideas to get you started:
 <img width="12" />
 
 <!-- Sqldeveloper -->
-<img alt="sqldeveloper-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" title="Sqldeveloper"  />
+<img alt="sqldeveloper-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql"  />
 <img width="12" />
 
 <!-- Sqlite -->
@@ -161,7 +164,7 @@ Here are some ideas to get you started:
 <img width="12"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhope123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<img height="12"/>
 <div align="center">
   <img src="https://profile-counter.glitch.me/nhope123/count.svg?"  />
 </div>
