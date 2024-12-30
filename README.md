@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h3 align="center">🛠 Language and tools</h3>
 <!--  -->
 <div align="left">
   <!-- React -->
@@ -38,11 +38,19 @@ Here are some ideas to get you started:
 <img width="12" />
 
 <!-- Graphql -->
-<img alt="graphql-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-original.svg" title="Graphql"  />
+<img alt="graphql-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" title="Graphql"  />
+<img width="12" />
+
+<!-- Vitejs -->
+<img alt="vitejs-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" title="Vitejs"  />
+<img width="12" />
+
+<!-- Vitest -->
+<img alt="vitest-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-original.svg" title="Vitest"  />
 <img width="12" />
 
 <!-- Jest -->
-<img alt="jest-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-original.svg" title="Jest"  />
+<img alt="jest-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" title="Jest"  />
 <img width="12" />
 
 <!-- Eslint -->
@@ -86,7 +94,7 @@ Here are some ideas to get you started:
 <img width="12" />
 
 <!-- Axios -->
-<img alt="axios-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-original.svg" title="Axios"  />
+<img alt="axios-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" title="Axios"  />
 <img width="12" />
 
 <!-- Sqldeveloper -->
@@ -119,14 +127,6 @@ Here are some ideas to get you started:
 
 <!-- Socketio -->
 <img alt="socketio-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" title="Socketio"  />
-<img width="12" />
-
-<!-- Vitejs -->
-<img alt="vitejs-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" title="Vitejs"  />
-<img width="12" />
-
-<!-- Vitest -->
-<img alt="vitest-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-original.svg" title="Vitest"  />
 <img width="12" />
 
 <!-- Vscode -->
