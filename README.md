@@ -1,10 +1,22 @@
-## Hi there 👋
+<h2 align="center"> Hi there 👋, I'm <b>Nial</b></h2>
 
 
-### 🚀 Frontend Developer | 🌐 Exploring Backend Development
+<h3 align="center"> 🚀 Frontend Developer | 🌐 Exploring Backend Development </h3>
 
 I'm a passionate **Frontend Developer** with a flair for building dynamic and interactive web applications. With a strong foundation in <b>React, Material-UI</b>, and <b>TypeScript</b>, I specialize in creating responsive and accessible user interfaces that deliver seamless user experiences. Recently, I've been diving into <b>backend development</b> to expand my full-stack capabilities.
 
+
+<h3 align="center"> 👨‍💻 What I Do: </h3>
+
+- **Frontend Mastery:** Crafting pixel-perfect UIs with React, Material-UI, and modern CSS frameworks.
+
+- **TypeScript Wizardry:** Writing clean, maintainable, and scalable code with TypeScript.
+
+- **Performance Optimization:** Learning advanced profiling and optimization techniques for blazing-fast apps.
+
+- **Testing & Debugging:** Ensuring reliability with Vitest and React Testing Library.
+
+- **Backend Exploration:** Experimenting with Node.js, Express, and SQLite for data persistence.
 
 <!--
 **nhope123/nhope123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -125,6 +137,10 @@ Here are some ideas to get you started:
   <!-- Mocha -->
   <img alt="mocha-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mocha/mocha-original.svg" title="Mocha"  />
   <img width="12" />
+
+<!--  Testing Library -->
+<img alt="testing-library-icon" height="40" src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library"  />
+<img width="12" />
 
 </div>
 
