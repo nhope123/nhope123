@@ -4,6 +4,7 @@
   <a href="https://nhope123.github.io/">
     <img alt="portfolio-badge" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" title="Go To Portfolio" />
   </a>
+  <img width="6"/>
   <a href="https://www.linkedin.com/in/nialhope/">
     <img alt="" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Go to LinkedIn" />
   </a>
@@ -275,16 +276,16 @@ Enhancing performance optimization and accessibility practices.
 
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=nhope123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<img height="12"/>
-<div align="center">
+<!-- </div> -->
+<img height="12" width="12"/>
+<!-- <div align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=nhope123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img width="12"/>
+<img height="12" width="12"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhope123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img height="12"/>
-<div align="center">
+<img height="12" width="12"/>
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/nhope123/count.svg?"  />
-</div>
+</div> -->
 
-###
+<p align="center">⚡ <i>Fun Fact:</i> I love experimenting with new technologies and sharing tips to help fellow developers grow!</p>
