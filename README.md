@@ -98,7 +98,16 @@ Here are some ideas to get you started:
   <img alt="redux-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" title="Redux"  />
   <img width="12" />
 
+  <!-- React Query -->
+  <img alt="react-query-icon" height="40" src="./react-query-icon.svg" title="React Query"  />
+  <img width="12" />
+
+  <!-- Atom State -->
+<img alt="atom-state-icon" height="40" src="https://atom-state.github.io/img/logo.svg" title="Atom State"  />
+<img width="12" />
+  
 </div>
+
 
 
 <!-- ********************* -->
