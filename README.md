@@ -1,5 +1,18 @@
 <h2 align="center"> Hi there 👋, I'm <b>Nial</b></h2>
 
+<div align="center">
+  <a href="https://nhope123.github.io/">
+    <img alt="portfolio-badge" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" title="View Portfolio" />
+  </a>
+  <a href="">
+    <img alt="" src="" title="" />
+  </a>
+</div>  
+[![portfolio]()](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
 
 <h3 align="center"> 🚀 Frontend Developer | 🌐 Exploring Backend Development </h3>
 
@@ -235,6 +248,29 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
 
 </div>
 -->
+<h3 align="center"> 🌟 Current Focus: </h3>
+
+<div align="center">
+
+Building a full-stack developer portfolio to showcase frontend expertise and growing backend skills.
+
+Implementing dark mode and localization features in my projects.
+
+Enhancing performance optimization and accessibility practices.
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center">🔥 Stats :</h3>
 
