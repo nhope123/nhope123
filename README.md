@@ -3,40 +3,30 @@
 
 <h3 align="center"> 🚀 Frontend Developer | 🌐 Exploring Backend Development </h3>
 
-I'm a passionate **Frontend Developer** with a flair for building dynamic and interactive web applications. With a strong foundation in <b>React, Material-UI</b>, and <b>TypeScript</b>, I specialize in creating responsive and accessible user interfaces that deliver seamless user experiences. Recently, I've been diving into <b>backend development</b> to expand my full-stack capabilities.
-
+<p align="center">
+I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dynamic and interactive web applications. With a strong foundation in <b><i>React, Material-UI</i></b>, and <b><i>TypeScript</i></b>, I specialize in creating responsive and accessible user interfaces that deliver seamless user experiences. Recently, I've been diving into <b><i>backend development</i></b> to expand my full-stack capabilities.
+</p>
 
 <h3 align="center"> 👨‍💻 What I Do: </h3>
 
-- **Frontend Mastery:** Crafting pixel-perfect UIs with React, Material-UI, and modern CSS frameworks.
+<div align="center">
+  <p><b><i>Frontend Mastery:</i></b> Crafting responsive UIs with React, Material-UI, and modern CSS frameworks.</p>
+  
+  <p><b><i>TypeScript Wizardry:</i></b> Writing clean, maintainable, and scalable code with TypeScript.</p>
+  
+  <p><b><i>Performance Optimization:</i></b> Learning advanced profiling and optimization techniques for blazing-fast apps.</p>
+  
+  <p><b><i>Testing & Debugging:</i></b> Ensuring reliability with Vitest and React Testing Library.</p>
+  
+  <p><b><i>Backend Exploration:</i></b> Experimenting with Node.js, Express, and SQLite for data persistence.</p>
+</div>
 
-- **TypeScript Wizardry:** Writing clean, maintainable, and scalable code with TypeScript.
 
-- **Performance Optimization:** Learning advanced profiling and optimization techniques for blazing-fast apps.
-
-- **Testing & Debugging:** Ensuring reliability with Vitest and React Testing Library.
-
-- **Backend Exploration:** Experimenting with Node.js, Express, and SQLite for data persistence.
-
-<!--
-**nhope123/nhope123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 align="center">🛠 Tech Stack </h3>
 
 <!-- ********************* -->
 <h5>Frontend</h5>  
-<div align="left">
+<div align="center">
   
    <!-- React -->
   <img alt="react-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React"  />
@@ -78,7 +68,7 @@ Here are some ideas to get you started:
 
 <!-- ********************* -->
 <h5>Backend</h5>
-<div align="left">
+<div align="center">
   
   <!-- Sqldeveloper -->
   <img alt="sqldeveloper-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql"  />
@@ -104,7 +94,7 @@ Here are some ideas to get you started:
 
 <!-- ********************* -->
 <h5>State Management</h5>
-<div align="left">
+<div align="center">
 
   <!-- Redux -->
   <img alt="redux-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" title="Redux"  />
@@ -124,7 +114,7 @@ Here are some ideas to get you started:
 
 <!-- ********************* -->
 <h5>Testing</h5>
-<div align="left">
+<div align="center">
   
   <!-- Vitest -->
   <img alt="vitest-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-original.svg" title="Vitest"  />
@@ -146,7 +136,7 @@ Here are some ideas to get you started:
 
 <!-- ********************* -->
 <h5>Operating System</h5>
-<div align="left">
+<div align="center">
   
   <!-- Linux -->
   <img alt="linux-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" title="Linux"  />
@@ -161,7 +151,7 @@ Here are some ideas to get you started:
 
 <!-- ********************* -->
 <h5>Other Tools</h5>
-<div align="left">
+<div align="center">
 
   <!-- react-i18next -->
   <img alt="react-i18next-icon" height="32" src="https://react.i18next.com/~gitbook/image?url=https%3A%2F%2F4236364459-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia&width=32&dpr=1&quality=100&sign=ba15ca9c&sv=2" title="React-i18next"  />
