@@ -2,14 +2,13 @@
 
 <div align="center">
   <a href="https://nhope123.github.io/">
-    <img alt="portfolio-badge" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" title="View Portfolio" />
+    <img alt="portfolio-badge" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" title="Go To Portfolio" />
   </a>
-  <a href="">
-    <img alt="" src="" title="" />
+  <a href="https://www.linkedin.com/in/nialhope/">
+    <img alt="" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Go to LinkedIn" />
   </a>
 </div>  
-[![portfolio]()](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
 
 
