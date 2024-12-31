@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋, I'm <b>Nial</b></h2>
+<h1 align="center"> Hi there 👋, I'm <b>Nial</b></h1>
 
 <div align="center">
   <a href="https://nhope123.github.io/">
@@ -14,13 +14,13 @@
 
 
 
-<h3 align="center"> 🚀 Frontend Developer | 🌐 Exploring Backend Development </h3>
+<h2 align="center"> 🚀 Frontend Developer | 🌐 Exploring Backend Development </h2>
 
 <p align="center">
 I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dynamic and interactive web applications. With a strong foundation in <b><i>React, Material-UI</i></b>, and <b><i>TypeScript</i></b>, I specialize in creating responsive and accessible user interfaces that deliver seamless user experiences. Recently, I've been diving into <b><i>backend development</i></b> to expand my full-stack capabilities.
 </p>
 
-<h3 align="center"> 👨‍💻 What I Do: </h3>
+<h2 align="center"> 👨‍💻 What I Do: </h2>
 
 <div align="center">
   <p><b><i>Frontend Mastery:</i></b> Crafting responsive UIs with React, Material-UI, and modern CSS frameworks.</p>
@@ -35,7 +35,7 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
 </div>
 
 
-<h3 align="center">🛠 Tech Stack </h3>
+<h2 align="center">🛠 Tech Stack </h2>
 
 <!-- ********************* -->
 <h5>Frontend</h5>  
@@ -248,7 +248,7 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
 
 </div>
 -->
-<h3 align="center"> 🌟 Current Focus: </h3>
+<h2 align="center"> 🌟 Current Focus: </h2>
 
 <div align="center">
 
@@ -272,7 +272,7 @@ Enhancing performance optimization and accessibility practices.
 
 
 
-<h3 align="center">🔥 Stats :</h3>
+<h2 align="center">🔥 Stats :</h2>
 
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=nhope123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
