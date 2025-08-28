@@ -77,6 +77,11 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
   <img alt="sass-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" title="Sass"  />
   <img width="12" />
 
+
+  <!-- AntD -->
+  <img alt="antd-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/antdesign/antdesign-original.svg" title="Ant Design"  />
+  <img width="12" />
+ 
 </div>
 
 <!-- ********************* -->
@@ -102,6 +107,23 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
   <!-- Socketio -->
   <img alt="socketio-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" title="Socketio"  />
   <img width="12" />
+
+ <!-- PostgreSQL -->
+  <img alt="PostgreSQL-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  />
+  <img width="12" />
+
+ <!-- MySQL -->
+  <img alt="MySQL-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" title="MySQL"  />
+  <img width="12" />
+
+ <!-- Sequelize -->
+  <img alt="Sequelize-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sequelize/sequelize-original.svg" title="Sequelize"  />
+  <img width="12" />
+
+<!-- Passport -->
+  <img alt="Passport-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/passport/passport-original.svg" title="Passport"  />
+  <img width="12" />
+  
 
 </div>
 
@@ -159,6 +181,10 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
   <img alt="debian-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-original.svg" title="Debian"  />
 <img width="12" />
 
+<!-- Windows -->
+  <img alt="Windows-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" title="Windows"  />
+<img width="12" />
+
 </div>
 
 
@@ -201,9 +227,15 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
   <!-- Figma -->
   <img alt="figma-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" title="Figma"  />
   <img width="12" />
+ 
   <!-- Python -->
-  <img alt="pythin-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" />
+  <img alt="python-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" />
   <img width="12" />
+
+ <!-- Php -->
+  <img alt="php-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" />
+  <img width="12" />
+
   
   <!-- Git -->
   <img alt="git-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" title="Git"  />
@@ -228,6 +260,19 @@ I'm a passionate <b><i>Frontend Developer</i></b> with a flair for building dyna
   <!-- Electron -->
   <img alt="electron-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original.svg" title="Electron"  />
   <img width="12" />
+
+ <!-- Nodemon -->
+  <img alt="nodemon-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodemon/nodemon-original.svg" title="Nodemon"  />
+  <img width="12" />
+
+  <!-- Npm -->
+  <img alt="npm-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" title="NPM"  />
+  <img width="12" />
+
+<!-- Latex -->
+  <img alt="Latex-icon" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" title="Latex"  />
+  <img width="12" />
+  
 
 </div>
 
